@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#wrapper{
+
+}
+
+#friendsList{
+	width:400px;
+}
+.friendsList{
+	text-align: center;
+	float:left;
+	margin:5px;
+	padding:5px;
+}
+
+#friendsList img{
+	margin-bottom: 5px;
+	width: 50px;
+}
+
+#friendsList h3{
+	font-size:10px
+}
+
+#mainUser h3{
+	display: inline-block;
+}
+
+
